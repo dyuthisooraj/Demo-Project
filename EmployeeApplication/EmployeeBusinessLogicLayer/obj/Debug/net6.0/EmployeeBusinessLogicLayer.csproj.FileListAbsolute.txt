@@ -1,0 +1,17 @@
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeBusinessLogicLayer.deps.json
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeBusinessLogicLayer.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeBusinessLogicLayer.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeApplicationDal.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeApplicationDomain.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeApplicationDal.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\bin\Debug\net6.0\EmployeeApplicationDomain.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.csproj.CopyComplete
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\refint\EmployeeBusinessLogicLayer.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\EmployeeBusinessLogicLayer.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeBusinessLogicLayer\obj\Debug\net6.0\ref\EmployeeBusinessLogicLayer.dll

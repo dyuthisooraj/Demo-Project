@@ -1,0 +1,12 @@
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\bin\Debug\net6.0\EmployeeApplicationDomain.deps.json
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\bin\Debug\net6.0\EmployeeApplicationDomain.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\bin\Debug\net6.0\EmployeeApplicationDomain.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\refint\EmployeeApplicationDomain.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\EmployeeApplicationDomain.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Domain\obj\Debug\net6.0\ref\EmployeeApplicationDomain.dll

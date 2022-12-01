@@ -1,0 +1,5 @@
+C:\Users\dsooraj\source\repos\errorsonarlint\errorsonarlint\obj\Debug\net6.0\errorsonarlint.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\errorsonarlint\errorsonarlint\obj\Debug\net6.0\errorsonarlint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\errorsonarlint\errorsonarlint\obj\Debug\net6.0\errorsonarlint.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\errorsonarlint\errorsonarlint\obj\Debug\net6.0\errorsonarlint.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\errorsonarlint\errorsonarlint\obj\Debug\net6.0\errorsonarlint.csproj.CoreCompileInputs.cache

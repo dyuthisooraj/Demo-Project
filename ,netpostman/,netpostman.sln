@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ",netpostman", ",netpostman\,netpostman.csproj", "{74038194-FEFE-42EA-80E0-FE00F75DDB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74038194-FEFE-42EA-80E0-FE00F75DDB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74038194-FEFE-42EA-80E0-FE00F75DDB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74038194-FEFE-42EA-80E0-FE00F75DDB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74038194-FEFE-42EA-80E0-FE00F75DDB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16DDD0F5-1D09-48F8-BB32-3AC8123F3431}
+	EndGlobalSection
+EndGlobal

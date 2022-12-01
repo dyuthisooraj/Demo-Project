@@ -1,0 +1,14 @@
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\bin\Debug\net6.0\EmployeeApp.Dal.deps.json
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\bin\Debug\net6.0\EmployeeApp.Dal.runtimeconfig.json
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\bin\Debug\net6.0\EmployeeApp.Dal.dll
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\bin\Debug\net6.0\EmployeeApp.Dal.pdb
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.dll
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\refint\EmployeeApp.Dal.dll
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.pdb
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\EmployeeApp.Dal.genruntimeconfig.cache
+C:\Users\dsooraj\source\repos\EmployeeApp\EmployeeApp.Dal\obj\Debug\net6.0\ref\EmployeeApp.Dal.dll

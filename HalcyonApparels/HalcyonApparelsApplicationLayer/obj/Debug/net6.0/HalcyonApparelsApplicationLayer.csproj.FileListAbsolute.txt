@@ -1,0 +1,17 @@
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\bin\Debug\net6.0\HalcyonApparelsApplicationLayer.deps.json
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\bin\Debug\net6.0\HalcyonApparelsApplicationLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\bin\Debug\net6.0\HalcyonApparelsApplicationLayer.pdb
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\bin\Debug\net6.0\HalcyonApparelsDomainLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\bin\Debug\net6.0\HalcyonApparelsDomainLayer.pdb
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.csproj.CopyComplete
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\refint\HalcyonApparelsApplicationLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.pdb
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\ref\HalcyonApparelsApplicationLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\bin\Debug\net6.0\HalcyonApparelsApplicationLayer.runtimeconfig.json
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsApplicationLayer\obj\Debug\net6.0\HalcyonApparelsApplicationLayer.genruntimeconfig.cache

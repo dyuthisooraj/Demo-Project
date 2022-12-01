@@ -1,0 +1,17 @@
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\bin\Debug\net6.0\EmployeeApplicationDal.deps.json
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\bin\Debug\net6.0\EmployeeApplicationDal.runtimeconfig.json
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\bin\Debug\net6.0\EmployeeApplicationDal.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\bin\Debug\net6.0\EmployeeApplicationDal.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\bin\Debug\net6.0\EmployeeApplicationDomain.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\bin\Debug\net6.0\EmployeeApplicationDomain.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.csproj.CopyComplete
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\refint\EmployeeApplicationDal.dll
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.pdb
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\EmployeeApplicationDal.genruntimeconfig.cache
+C:\Users\dsooraj\source\repos\EmployeeApplication\EmployeeApplication.Dal\obj\Debug\net6.0\ref\EmployeeApplicationDal.dll
