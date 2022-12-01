@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HalcyonApparelsDomainLayer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57495;http://localhost:57497"
+    }
+  }
+}

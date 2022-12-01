@@ -1,0 +1,14 @@
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\bin\Debug\net6.0\HalcyonApparelsDomainLayer.deps.json
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\bin\Debug\net6.0\HalcyonApparelsDomainLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\bin\Debug\net6.0\HalcyonApparelsDomainLayer.pdb
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\refint\HalcyonApparelsDomainLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.pdb
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\ref\HalcyonApparelsDomainLayer.dll
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\bin\Debug\net6.0\HalcyonApparelsDomainLayer.runtimeconfig.json
+C:\Users\dsooraj\source\repos\HalcyonApparels\HalcyonApparelsDomainLayer\obj\Debug\net6.0\HalcyonApparelsDomainLayer.genruntimeconfig.cache
